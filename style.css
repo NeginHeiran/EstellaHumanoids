@@ -1,0 +1,29 @@
+/* Reset margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Full-screen layout */
+  body, html {
+    width: 100%;
+    height: 100%;
+    background-color: #000; /* fallback background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+  }
+  
+  .coming-soon-image {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+  }
+  
