@@ -11,24 +11,3 @@ This website serves as a hub to present the robot, its features, and ongoing adv
 ## Founder & Project Lead
 
 The Estella project is led by **Fatemeh (Negin) Heiran**, founder and Head of Robotics & R&D. With a background in mechanical engineering and extensive experience in robotics design, development, and prototyping, Fatemeh has been instrumental in the conceptualization, design, and implementation of Estella’s humanoid technologies.  
-
-## Website Features
-
-- Responsive, modern design for desktop and mobile platforms  
-- Interactive sections highlighting Estella’s features, specifications, and applications  
-- Multimedia support for images, videos, and demonstration content  
-- Contact and inquiry forms for collaboration, partnerships, and project inquiries  
-
-## Technologies Used
-
-- **Frontend:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** [Specify frameworks/libraries if applicable, e.g., React, TailwindCSS]  
-- **Hosting:** [Specify hosting service if applicable]  
-
-## Installation
-
-To run the website locally:  
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/your-username/estella-website.git
