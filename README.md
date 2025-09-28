@@ -10,4 +10,8 @@ This website serves as a hub to present the robot, its features, and ongoing adv
 
 ## Founder & Project Lead
 
-The Estella project is led by **Fatemeh (Negin) Heiran**, founder and Head of Robotics & R&D. With a background in mechanical engineering and extensive experience in robotics design, development, and prototyping, Fatemeh has been instrumental in the conceptualization, design, and implementation of Estella’s humanoid technologies.  
+The Estella project is led by **Fatemeh (Negin) Heiran**, founder and Head of Robotics & R&D. With a background in mechanical engineering and extensive experience in robotics design, development, and prototyping, Fatemeh has been instrumental in the conceptualization, design, and implementation of Estella’s humanoid technologies. 
+
+## GitHub Directory
+
+https://github.com/EstellaHumanoids/Humanoid-Robot
