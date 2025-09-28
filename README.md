@@ -1,17 +1,13 @@
-# Estella Humanoids Website
+# Estella  
 
-Welcome to the official repository for **Estella Humanoids**, the digital presence of the Estella humanoid robot project. This repository contains the full source code of the website, designed to showcase Estella’s capabilities, updates, and vision for robotics innovation.
+✨ Estella is an **open-source humanoid robot** inspired by human anatomy, built to replicate the beauty of our gestures, the strength of our spine, and the freedom of our movement.  
 
-## About Estella Humanoids
+This repository is a **landing page** for Estella, pointing to the main development space hosted under the [EstellaHumanoids organization](https://github.com/EstellaHumanoids/Humanoid-Robot).  
 
-**Estella** is an advanced humanoid robot developed to demonstrate cutting-edge robotics technology and human-robot interaction. The project emphasizes innovation, research, and practical applications in robotics, aiming to push the boundaries of humanoid development.  
-
-This website serves as a hub to present the robot, its features, and ongoing advancements, while also facilitating collaboration and outreach to partners, researchers, and enthusiasts.
+## 🚀 Explore Estella
+- 🔗 [Main Repository: Humanoid-Robot](https://github.com/EstellaHumanoids/Humanoid-Robot)  
+- 🌐 [Website (coming soon)](http://estella-humanoid.org)  
 
 ## Founder & Project Lead
 
 The Estella project is led by **Fatemeh (Negin) Heiran**, founder and Head of Robotics & R&D. With a background in mechanical engineering and extensive experience in robotics design, development, and prototyping, Fatemeh has been instrumental in the conceptualization, design, and implementation of Estella’s humanoid technologies. 
-
-## GitHub Directory
-
-https://github.com/EstellaHumanoids/Humanoid-Robot
