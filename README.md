@@ -6,7 +6,7 @@ This repository is a **landing page** for Estella, pointing to the main developm
 
 ## 🚀 Explore Estella
 - 🔗 [Main Repository: Humanoid-Robot](https://github.com/EstellaHumanoids/Humanoid-Robot)  
-- 🌐 [Website (coming soon)](http://estella-humanoid.org)  
+- 🌐 [Website](http://www.estellahumanoids.com)  
 
 ## Founder & Project Lead
 
